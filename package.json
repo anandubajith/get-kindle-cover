@@ -1,0 +1,13 @@
+{
+  "name": "get-kindle-cover",
+  "version": "0.0.2",
+  "description": "A module to download high-res kindle cover's from Amazon",
+  "main": "get-kindle-cover.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  },
+  "author": "Anandu B Ajith <mail@anandu.net> (http://anandu.net)",
+  "license": "ISC"
+}
